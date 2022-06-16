@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6e923343-eb3b-4ba0-9783-15dd2c91dd2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms-brewery-bom.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ms-brewery-bom.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +61,8 @@
       <workItem from="1655320104684" duration="5321000" />
       <workItem from="1655372894722" duration="684000" />
       <workItem from="1655374055895" duration="1185000" />
-      <workItem from="1655377174102" duration="2955000" />
+      <workItem from="1655377174102" duration="4230000" />
+      <workItem from="1655393433690" duration="1583000" />
     </task>
     <servers />
   </component>

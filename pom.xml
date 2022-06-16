@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.github.koulkzbda</groupId>
     <artifactId>ms-brewery-bom</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>ms-brewery-bom</name>
     <description>BOM for ms-brewery project</description>
     <packaging>pom</packaging>
@@ -179,10 +179,10 @@
             </plugin>
         </plugins>
     </build>
-    <repositories>
+    <distributionManagement>
         <repository>
             <id>jitpack.io</id>
             <url>https://jitpack.io</url>
         </repository>
-    </repositories>
+    </distributionManagement>
 </project>
