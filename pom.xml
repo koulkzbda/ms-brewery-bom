@@ -8,9 +8,9 @@
         <version>2.1.5.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.koulkzbda</groupId>
+    <groupId>com.github.koulkzbda</groupId>
     <artifactId>ms-brewery-bom</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>ms-brewery-bom</name>
     <description>BOM for ms-brewery project</description>
     <packaging>pom</packaging>
@@ -27,11 +27,6 @@
 
     <dependencyManagement>
         <dependencies>
-            <dependency>
-                <groupId>com.github.koulkzbda</groupId>
-                <artifactId>ms-brewery-bom</artifactId>
-                <version>1.0.0</version>
-            </dependency>
             <dependency>
                 <groupId>javax.xml.bind</groupId>
                 <artifactId>jaxb-api</artifactId>
